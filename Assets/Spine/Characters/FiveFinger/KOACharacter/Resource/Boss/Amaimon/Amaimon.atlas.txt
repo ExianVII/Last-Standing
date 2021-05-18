@@ -1,0 +1,216 @@
+
+Amaimon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1_l
+  rotate: true
+  xy: 786, 105
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+arm1_r
+  rotate: true
+  xy: 365, 5
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+arm2_l
+  rotate: true
+  xy: 898, 124
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+arm2_r
+  rotate: false
+  xy: 721, 112
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+attack skill
+  rotate: false
+  xy: 833, 118
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 828, 174
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+effect_swing
+  rotate: true
+  xy: 426, 159
+  size: 25, 151
+  orig: 25, 151
+  offset: 0, 0
+  index: -1
+fog1
+  rotate: false
+  xy: 242, 62
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: false
+  xy: 457, 70
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: false
+  xy: 420, 2
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 411, 63
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 420, 23
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 721, 166
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+leg1_l
+  rotate: true
+  xy: 306, 2
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+leg1_r
+  rotate: false
+  xy: 242, 2
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+leg2_l
+  rotate: false
+  xy: 515, 95
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+leg2_r
+  rotate: false
+  xy: 928, 174
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+manteau
+  rotate: false
+  xy: 183, 22
+  size: 57, 108
+  orig: 57, 108
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 955, 120
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 3
+  size: 179, 127
+  orig: 179, 127
+  offset: 0, 0
+  index: -1
+sholder_l
+  rotate: false
+  xy: 588, 90
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+sholder_r
+  rotate: false
+  xy: 426, 98
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+shutterstock_417080953
+  rotate: false
+  xy: 594, 150
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+sonicboom
+  rotate: false
+  xy: 588, 127
+  size: 100, 21
+  orig: 100, 21
+  offset: 0, 0
+  index: -1
+tail1
+  rotate: true
+  xy: 426, 186
+  size: 68, 166
+  orig: 68, 166
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 254, 117
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 344, 62
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+waist_l
+  rotate: false
+  xy: 668, 87
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+waist_r
+  rotate: false
+  xy: 458, 29
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+wepon
+  rotate: false
+  xy: 2, 132
+  size: 250, 122
+  orig: 250, 122
+  offset: 0, 0
+  index: -1

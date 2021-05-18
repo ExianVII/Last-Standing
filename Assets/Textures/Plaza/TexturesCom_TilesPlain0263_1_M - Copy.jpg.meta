@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9e85efad280dbbb47a1c638dd8f34891
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6040602854434421304
+    second: TexturesCom_TilesPlain0263_1_M - Copy_0
+  - first:
+      213: -6392019724972937405
+    second: TexturesCom_TilesPlain0263_1_M - Copy_1
+  - first:
+      213: 3945088089075520608
+    second: TexturesCom_TilesPlain0263_1_M - Copy_2
+  - first:
+      213: 5140294282300458102
+    second: TexturesCom_TilesPlain0263_1_M - Copy_3
+  - first:
+      213: 7671683333013517235
+    second: TexturesCom_TilesPlain0263_1_M - Copy_4
+  - first:
+      213: 7741830458430435223
+    second: TexturesCom_TilesPlain0263_1_M - Copy_5
+  - first:
+      213: 8420717982327325995
+    second: TexturesCom_TilesPlain0263_1_M - Copy_6
+  - first:
+      213: -3793005436963593022
+    second: TexturesCom_TilesPlain0263_1_M - Copy_7
+  - first:
+      213: 6613551448163107918
+    second: TexturesCom_TilesPlain0263_1_M - Copy_8
+  - first:
+      213: -1454782126752622029
+    second: TexturesCom_TilesPlain0263_1_M - Copy_9
+  - first:
+      213: 9091633255977771085
+    second: TexturesCom_TilesPlain0263_1_M - Copy_10
+  - first:
+      213: 5960738198671793114
+    second: TexturesCom_TilesPlain0263_1_M - Copy_11
+  - first:
+      213: -2549044454451519822
+    second: TexturesCom_TilesPlain0263_1_M - Copy_12
+  - first:
+      213: 740873691250716241
+    second: TexturesCom_TilesPlain0263_1_M - Copy_13
+  - first:
+      213: -8199454684653055148
+    second: TexturesCom_TilesPlain0263_1_M - Copy_14
+  - first:
+      213: -1113639180422617357
+    second: TexturesCom_TilesPlain0263_1_M - Copy_15
+  - first:
+      213: -5261387084888452624
+    second: TexturesCom_TilesPlain0263_1_M - Copy_16
+  - first:
+      213: 8722343835578653414
+    second: TexturesCom_TilesPlain0263_1_M - Copy_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba090e95bad50b4ba451ffd8fb1afe5
+      internalID: -6040602854434421304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11aaf11cfc9754e9a8d523010a2a1c
+      internalID: -6392019724972937405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa9c632dfb2b44287daca0d90a73e1
+      internalID: 3945088089075520608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c7cb3c8a3e724da59e746c85ddfbd
+      internalID: 5140294282300458102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89504f428fb55341ba87550c257538a
+      internalID: 7671683333013517235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 271
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fb2a0ceb183b48ae61b9d4c2e6426
+      internalID: 7741830458430435223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e716cf92e9f3e68489b870517702df46
+      internalID: 8420717982327325995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb0fef7aee8be42be24e60784300d7
+      internalID: -3793005436963593022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3889f5ca85fb3245925e6164bd43efc
+      internalID: 6613551448163107918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4559dc296f1e9d64e9594de9d5cfad90
+      internalID: -1454782126752622029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b932780eb9836a4a9c798f16cc24292
+      internalID: 9091633255977771085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 143
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac3ed27771e8904f8bc68bdf0adfb86
+      internalID: 5960738198671793114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58328ec01849d14e883e21e96236e15
+      internalID: -2549044454451519822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc993756bbe10d459568955ab459c99
+      internalID: 740873691250716241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7bd6e1c25ad7e49a60bce0ea7db1bb
+      internalID: -8199454684653055148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44827eb3f0982e04889560951f96f283
+      internalID: -1113639180422617357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f168816b9faaa845b88520c015c90d6
+      internalID: -5261387084888452624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TexturesCom_TilesPlain0263_1_M - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 15
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a44b43278ac64b90f5d29db89ef3d
+      internalID: 8722343835578653414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c16056c4e49d4c4d9bf04a74f8c8838
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,230 @@
+
+satan.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 129
+  rotate: false
+  xy: 328, 21
+  size: 197, 79
+  orig: 197, 79
+  offset: 0, 0
+  index: -1
+arm1_l
+  rotate: false
+  xy: 800, 2
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+arm1_r
+  rotate: true
+  xy: 703, 2
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+arm2_l
+  rotate: true
+  xy: 1984, 109
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+arm2_r
+  rotate: true
+  xy: 1680, 104
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1680, 150
+  size: 104, 164
+  orig: 104, 164
+  offset: 0, 0
+  index: -1
+effect_attack
+  rotate: false
+  xy: 1784, 80
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+effect_attack_black
+  rotate: false
+  xy: 1863, 83
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+explotion1
+  rotate: false
+  xy: 328, 102
+  size: 292, 152
+  orig: 292, 152
+  offset: 0, 0
+  index: -1
+explotion2
+  rotate: false
+  xy: 1141, 54
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fog_magic
+  rotate: false
+  xy: 2, 15
+  size: 324, 239
+  orig: 324, 239
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 1942, 77
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+foot_r
+  rotate: true
+  xy: 888, 42
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 1984, 204
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 882, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1846, 153
+  size: 101, 136
+  orig: 101, 136
+  offset: 0, 0
+  index: -1
+horn
+  rotate: true
+  xy: 622, 73
+  size: 103, 118
+  orig: 103, 118
+  offset: 0, 0
+  index: -1
+leg1_l
+  rotate: false
+  xy: 1661, 46
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+leg1_r
+  rotate: true
+  xy: 806, 42
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+leg2_l
+  rotate: false
+  xy: 1509, 64
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+leg2_r
+  rotate: false
+  xy: 1587, 52
+  size: 72, 58
+  orig: 72, 58
+  offset: 0, 0
+  index: -1
+leg3_l
+  rotate: false
+  xy: 834, 92
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+leg3_r
+  rotate: false
+  xy: 742, 92
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+magic
+  rotate: false
+  xy: 527, 18
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+magic_black
+  rotate: false
+  xy: 1343, 92
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+magic_light
+  rotate: false
+  xy: 622, 178
+  size: 301, 76
+  orig: 301, 76
+  offset: 0, 0
+  index: -1
+manteau
+  rotate: true
+  xy: 1343, 49
+  size: 41, 128
+  orig: 41, 128
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1984, 156
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+sholder_l
+  rotate: true
+  xy: 742, 49
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+shoulder_r
+  rotate: true
+  xy: 611, 12
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+wing_l
+  rotate: false
+  xy: 1509, 112
+  size: 169, 142
+  orig: 169, 142
+  offset: 0, 0
+  index: -1
+wing_r
+  rotate: false
+  xy: 925, 73
+  size: 214, 181
+  orig: 214, 181
+  offset: 0, 0
+  index: -1
